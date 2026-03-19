@@ -1,5 +1,6 @@
 # TravelPlus - Vacations Management System 🌴
-https://github.com/tehila-lavi/College-Project/commit/4b6257454916332594192eb83c6fcb4468efcbcf
+[https://github.com/tehila-lavi/College-Project/commit/4b6257454916332594192eb83c6fcb4468efcbcf
+](https://github.com/tehila-lavi/College-Project/blob/main/animation%20travel%20project.mp4)
 
 A full-stack, real-time web application to manage, track, and follow vacation destinations. 
 
